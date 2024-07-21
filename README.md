@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there, Guy here!
 
-<!--
-**guyadambrown/guyadambrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently in my third year studying Computer Science at York St John University. I'm interested in various elements of computing such as:  
 
-Here are some ideas to get you started:
+- Networking
+- Hardware - PC Building and upgrading.
+- Software - Software development in various languages.
+- Virtualisation and Homelab - Using Proxmox to virtualise my homelab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,java,azure,linux,arch,debian,ubuntu,docker,nodejs,js,discordjs&)"/>
+  </a>
+</p>
+
+## Get in touch
+- Email: guy.adam.brown@gmail.com
+- Discord: Lineage
+
+Feel free to drop me a message, I'm always up for a chat!
+
