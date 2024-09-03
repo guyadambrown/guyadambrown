@@ -16,7 +16,7 @@ I am currently in my third year studying Computer Science at York St John Univer
 
 ## Get in touch
 - Email: guy.adam.brown@gmail.com
-- Discord: Lineage
+- Discord: ThatGuyLineage
 
 Feel free to drop me a message, I'm always up for a chat!
 
